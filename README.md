@@ -1,6 +1,6 @@
 # Simple spring example.
 
-##Description
+## Description
 
 Banks have customers. Customers have accounts.
 Accounts hold money. Transfers are done between accounts. Account holds a list of all
